@@ -1,0 +1,5 @@
+.test6{}
+.test6 .test{width:100px; height:50px; border:2px solid red;}
+.test6 .test.on{border:2px solid blue; background-color: lightpink;}
+.test6 .on1{background-color: yellow;}
+.test6 button{box-shadow: 5px 5px 5px #111;}

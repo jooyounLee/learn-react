@@ -1,0 +1,10 @@
+.test9{
+    margin:20px 20px;
+    width:500px;
+    text-align: center;
+}
+.test9 table{border-collapse: collapse;}
+.test9 td, .test9 th{
+    border: 1px solid;
+    height:40px; width:100px;
+}
